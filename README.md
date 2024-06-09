@@ -6,4 +6,7 @@
 
 #Learning phase
 
+#Using Python, SQL, R, and Tableau as of now
+
+
 
